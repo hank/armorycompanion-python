@@ -1,0 +1,15 @@
+
+[Desktop Entry]
+Type=Application
+Name=Armory (Offline)
+GenericName=Bitcoin Client
+Comment=Full-featured Bitcoin wallet management application
+Categories=Qt;Network;
+Exec=python /home/erik/Desktop/Development/armorycompanion_py/scanQr.py
+Icon=armoryofflineicon
+StartupNotify=false
+Terminal=false
+MimeType=x-scheme-handler/bitcoin
+Name[en_US]=Scan Unsigned TX
+GenericName[en_US.UTF-8]=
+Comment[en_US.UTF-8]=
